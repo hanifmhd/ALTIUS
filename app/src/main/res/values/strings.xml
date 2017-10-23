@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ALTIUS</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Information</string>
+    <string name="slide_1_desc">Find the information you need with the features that have been provided</string>
+
+    <string name="slide_2_title">Get in touch</string>
+    <string name="slide_2_desc">Simple way to get in touch by requesting</string>
+
+    <string name="slide_3_title">Favorites</string>
+    <string name="slide_3_desc">Every single alumni that you like will be listed</string>
+
+    <string name="slide_4_title">History</string>
+    <string name="slide_4_desc">Never forget what you want to find again</string>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="email">If you want to request personal data of alumni, please write down your email address below</string>
+    <string name="upload_foto">If you want to change your profile photo, please upload your photo</string>
+
+    <string name="dialog_reminder_title">Reminder</string>
+    <string name="dialog_reminder_message">Searching field can\'t be blanked.\n It must be filled at least 1 field</string>
+
+    <string name="dialog_exit_title">Exit</string>
+    <string name="dialog_exit_message">Are you sure want to exit?</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_inside_circle_button_text_normal">Text Inside Circle Button(Normal)</string>
+    <string name="text_histori">History</string>
+    <string name="text_favorit">Favorite</string>
+    <string name="text_about">About App</string>
+    
+    <string name="about_penjelasan">Aplikasi ALTIUS merupakan sebuah aplikasi yang digagas oleh Departemen Hubungan Luar Himpunan Mahasiswa Teknik Industri ITS (HMTI ITS).\n\n Aplikasi ini berisi informasi data alumni Teknik Industri ITS melalui fitur pencarian. Aplikasi ini juga merupakan sarana penunjang bagi semua orang, khususnya mahasiswa Teknik Industri ITS untuk mengetahui alumni Teknik Industri ITS.\n\nDengan adanya aplikasi ini, diharapkan mahasiswa Teknik Industri ITS dapat mengenal alumni-alumninya dan menjalin silaturahmi lebih baik.</string>
+    <string name="about_develop">Developed by : </string>
+    <string name="about_design">Designed and animated by: </string>
+    <string name="about_support">Supported by: </string>
+    <string name="about_hanif">Teknik Informatika 2014\nas Project Manager &amp; Programmer</string>
+    <string name="about_nina">Sistem Informasi 2014\nas UI/UX Designer</string>
+    <string name="about_mis">Mobile Innovation Studio \nTeknik Informatika ITS\nmobile.if.its.ac.id</string>
+    <string name="about_flaticon">Flaticon \nflaticon.com"</string>
+    <string name="about_android_arsenal">Android Arsenal \nandroid-arsenal.com"</string>
+</resources>
